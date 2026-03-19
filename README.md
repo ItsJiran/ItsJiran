@@ -53,4 +53,7 @@ Whether you want to discuss software architecture, DevOps, potential agency part
   <tr>
     <img src="https://leetcard.jacoblin.cool/ItsJiran?ext=contest&theme=dark"/>
   </tr>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJiran&layout=compact&theme=radical" alt="Top Langs" />
+  </tr>
 </table>
