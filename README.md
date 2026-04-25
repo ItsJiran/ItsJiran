@@ -47,8 +47,8 @@ I am constantly tinkering and building new things. Here is what is on my desk ri
 * **ACE (Agentic Client Environment):** An overlay tool (similar to Cluely) — *Currently in development*.
 * **Culinary Management System:** A comprehensive platform featuring OpenStreetMap (OSM) integration for real-time tracking and worker capacity management. - *Currently in development*.
 * **Referral App:** A streamlined application for managing and tracking user referrals. - *Currently in development*.
-* **Marketing App:** A streamlined application for managing and tracking marketing on their progress. - *Currently in development*.
-* **Boilerplate Code:** Building and refining scalable boilerplate templates to speed up future development cycles.
+* **Marketing App:** A streamlined application for managing and tracking marketing on their progress, integrated with Whatsapp Web + Gmail Through Local. - (Internal Company Project / Will Make A Repo For Explaining This Project).
+* **Boilerplate Code:** Building and refining scalable boilerplate templates to speed up future development cycles, included with default ci/cd pipeline, nginx template configuration, dev prod parity - (Check My Repo List And Search With Boilerplate Title).
 
 ---
 
