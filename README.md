@@ -9,7 +9,6 @@ Currently, I am diving deeper into Data Structures and Algorithms (DSA), expandi
 ---
 
 ### 👨‍💻 What I'm Up To
-- 🏢 Building my software development agency: **[Akterma](https://akterma.com)**
 - 🌐 Check out my personal portfolio: **[jiran.dev](https://jiran.dev)**
 - 🧠 Actively learning and improving my DSA skills and exploring AI integration.
 
@@ -47,8 +46,6 @@ I am constantly tinkering and building new things. Here is what is on my desk ri
 * **ACE (Agentic Client Environment):** An overlay tool (similar to Cluely) — *Currently in development*.
 * **Culinary Management System:** A comprehensive platform featuring OpenStreetMap (OSM) integration for real-time tracking and worker capacity management. - *Currently in development*.
 * **Referral App:** A streamlined application for managing and tracking user referrals. - *Currently in development*.
-* **Marketing App:** A streamlined application for managing and tracking marketing on their progress, integrated with Whatsapp Web + Gmail Through Local. - (Internal Company Project / Will Make A Repo For Explaining This Project).
-* **Boilerplate Code:** Building and refining scalable boilerplate templates to speed up future development cycles, included with default ci/cd pipeline, nginx template configuration, dev prod parity - (Check My Repo List And Search With Boilerplate Title).
 
 ---
 
@@ -56,7 +53,6 @@ I am constantly tinkering and building new things. Here is what is on my desk ri
 Whether you want to discuss software architecture, DevOps, potential agency partnerships, or just talk tech, feel free to reach out!
 
 * **Website:** [jiran.dev](https://jiran.dev)
-* **Agency:** [akterma.com](https://akterma.com)
 
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/ItsJiran?ext=contest&theme=dark" alt="LeetCode Stats" />
