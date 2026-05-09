@@ -1,8 +1,8 @@
 # Hi there, I'm Jibril Gilang Ramadhan 👋
 
-**Software Engineer | DevOps Enthusiast | Product Builder**
+**Software Engineer | Product Builder**
 
-I am a passionate Software Engineer with 3 years of experience building and scaling applications. My background spans across software architecture, full-stack development, DevOps, and mobile development. I love turning complex problems into scalable, efficient, and user-friendly products. 
+I am a passionate Software Engineer with 3 years of experience building and scaling applications. My background spans across software architecture, Full-stack development, Linux SysAdmin, and mobile development. I love turning complex problems into scalable, efficient, and user-friendly products. 
 
 Currently, I am diving deeper into Data Structures and Algorithms (DSA), expanding my skill set into new technical domains, and building my own Software Development Agency with a strong focus on leveraging AI.
 
@@ -56,5 +56,4 @@ Whether you want to discuss software architecture, DevOps, potential agency part
 
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/ItsJiran?ext=contest&theme=dark" alt="LeetCode Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJiran&layout=compact&theme=radical" alt="Top Langs" />
 </p>
