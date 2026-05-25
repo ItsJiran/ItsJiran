@@ -45,14 +45,8 @@ I am constantly tinkering and building new things. Here is what is on my desk ri
 
 * **ACE (Agentic Client Environment):** An overlay tool (similar to Cluely) — *Currently in development*.
 * **Culinary Management System:** A comprehensive platform featuring OpenStreetMap (OSM) integration for real-time tracking and worker capacity management. - *Currently in development*.
-* **Referral App:** A streamlined application for managing and tracking user referrals. - *Currently in development*.
 
 ---
-
-### 📫 Connect with Me
-Whether you want to discuss software architecture, DevOps, potential agency partnerships, or just talk tech, feel free to reach out!
-
-* **Website:** [jiran.dev](https://jiran.dev)
 
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/ItsJiran?ext=contest&theme=dark" alt="LeetCode Stats" />
